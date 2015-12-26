@@ -1,5 +1,7 @@
 # Python-practise
 
+[![Join the chat at https://gitter.im/lichuanr/Python-practise](https://badges.gitter.im/lichuanr/Python-practise.svg)](https://gitter.im/lichuanr/Python-practise?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 <h4>1-20</h4>
 <table style="width:100%">
   <tr>
