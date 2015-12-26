@@ -889,27 +889,177 @@
   </tr>
   <tr>
     <td>118</td>
-    <td></td> 
+    <td>Pascal's Triangle</td> 
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>119</td>
-    <td></td> 
+    <td>Pascal's Triangle II</td> 
     <td></td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td>120</td>
-    <td></td> 
+    <td>Triangle</td> 
     <td></td>
     <td></td>
     <td></td>
   </tr>
   </table>
   
+  <h4>121-140</h4>
+  <table style="width:100%">
+  <tr>
+    <th>Index</th>
+    <th>Name</th>
+    <th>source code</th>
+    <th>Improved</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>121</td>
+    <td>Best Time to Buy and Sell Stock</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>122</td>
+    <td>Best Time to Buy and Sell Stock II</td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>123</td>
+    <td>Best Time to Buy and Sell Stock III</td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>124</td>
+    <td>Binary Tree Maximum Path Sum</td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>125</td>
+    <td>Valid Palindrome</td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>126</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>127</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>128</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>129</td>
+    <td>Sum Root to Leaf Numbers</td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>130</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>131</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>132</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>133</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>134</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>135</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>136</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>137</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>138</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>139</td>
+    <td>Word Break</td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>140</td>
+    <td></td> 
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  </table>
   
   <h4>61-80</h4>
   <table style="width:100%">
